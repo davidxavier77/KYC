@@ -1,0 +1,5 @@
+E:\Kyc\KYC\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Kyc\KYC\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Kyc\KYC\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Kyc\KYC\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Kyc\KYC\BusinessEntities\obj\Debug\BusinessEntities.pdb
